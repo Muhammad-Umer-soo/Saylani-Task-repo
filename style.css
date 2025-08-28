@@ -1,0 +1,36 @@
+header {
+  text-align: center;
+  background-color: black;
+  padding: 10px;
+}
+
+header nav a {
+  color: white;
+}
+
+.h1 {
+  text-align: center;
+  color: brown;
+}
+
+#v {
+  border: 4px solid green;
+  border-radius: 20px;
+}
+
+h1,
+h3 {
+  background-color: gray;
+}
+
+div > p {
+  color: darkgreen;
+}
+
+h1 + div {
+  background-color: rgb(177, 230, 72);
+}
+
+ol ul {
+  color: blueviolet;
+}
